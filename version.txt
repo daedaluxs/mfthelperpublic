@@ -1,2 +1,2 @@
-hversion=1.1.11
+hversion=1.1.12
 uversion=1.1.15
